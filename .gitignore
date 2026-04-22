@@ -15,6 +15,9 @@ override.tf.json
 *.tfvars
 *.auto.tfvars
 
+# Internal Documentation
+docs/
+
 # CLI / local config
 .env
 .env.*
